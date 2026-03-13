@@ -2,7 +2,7 @@ type,state,county,city,in_state_rate,out_state_rate,provider_company,date_create
 STATE,AK,,,$1.28,$1.28,securus,2026-01-14
 STATE,AL,,,$1.20,$1.20,ics,2026-01-14
 STATE,AR,,,$0.90,$0.90,securus,2026-01-14
-STATE,AZ,,,$2.40,$2.40,viapath,2026-01-14
+STATE,AZ,,,$0.90,$0.90,securus,2026-01-14
 STATE,CA,,,$0.00,$0.00,viapath,2026-01-14
 STATE,CO,,,$0.08,$0.08,securus,2026-01-14
 STATE,CT,,,$0.00,$0.00,securus,2026-01-14
@@ -13,7 +13,6 @@ STATE,GA,,,$0.90,$0.90,securus,2026-01-14
 STATE,HI,,,$0.81,$0.81,viapath,2026-01-14
 STATE,IA,,,$0.90,$0.90,ics,2026-01-14
 STATE,ID,,,$0.90,$0.90,ics,2026-01-14
-STATE,IL,,,$0.12,$0.12,ics,2026-01-14
 STATE,IN,,,$2.10,$2.10,viapath,2026-01-14
 STATE,KS,,,$0.90,$0.90,ics,2026-01-14
 STATE,KY,,,$2.10,$2.10,securus,2026-01-14
